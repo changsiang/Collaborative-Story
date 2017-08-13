@@ -1,15 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿//The Team 12 Collaborative Story of GDipSA45
 
-namespace Collaborative_Story_1
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-        }
-    }
-}
+/*Chang Siang*/
+/*It started with a piece of pancake that she ate in the morning
